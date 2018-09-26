@@ -1,5 +1,12 @@
-# BOAZ-projects
-BOAZ Adv
+# BOAZ Adv projects
+강민 소현 찬규
+
+## Did List
+- [18.09.26] gitHub repo 생성, 일부 자료 정리
+
+
+## ToDo List
+- [18.09.27] 프로젝트 회의 19:00
 
 
 ## 딥러닝 강의/자료
