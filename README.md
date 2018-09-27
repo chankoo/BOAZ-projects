@@ -3,10 +3,10 @@
 
 ## Did List
 - [18.09.26] gitHub repo 생성, 일부 자료 정리
-
+- [18.09.27] 프로젝트 아이디어 회의 
 
 ## ToDo List
-- [18.09.27] 프로젝트 회의 19:00
+- [18.10.18] 주제 선정 DeadLine
 
 
 ## 딥러닝 강의/자료
@@ -44,9 +44,12 @@
 - __NLP__
   - __W2V__
     - [word2vec Parameter Learning Explained.pdf](https://github.com/chankoo/BOAZ-projects/files/2420174/word2vec.Parameter.Learning.Explained.pdf): W2V 이해하기 가장 좋은 문서
+  
 
 
 - __RS__
   - [Deep Neural Networks for YouTube Recommendations](https://github.com/chankoo/BOAZ-projects/files/2420203/Deep.Neural.Networks.for.YouTube.Recommendations_2016_google.pdf): 구글의 유튜브 추천 알고리즘, 딥러닝 기반 추천 시스템 
     - [PR-60 논문읽기](https://www.youtube.com/watch?v=V6zixdCIOqw&index=62&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
     - [최근우님 논문요약](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
+  - [Deep Learning based Recommender System: A Survey and New Perspectives](https://github.com/chankoo/BOAZ-projects/files/2423646/Deep.Learning.based.Recommender.System.A.Survey.and.New.Perspectives.pdf): 딥러닝 기반 추천시스템 관련 최근 리서치 포괄적으로 
+
