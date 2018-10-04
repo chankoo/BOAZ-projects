@@ -3,11 +3,14 @@
 
 ## Did List
 - [18.09.26] gitHub repo 생성, 일부 자료 정리
-- [18.09.27] 프로젝트 아이디어 회의 
+- [18.09.27] 프로젝트 회의 
+- [18.10.04] 프로젝트 회의: 각자 가제 선정
 
 ## ToDo List
-- [18.10.4] 프로젝트 회의: 각자 주제 하나 선정해 데이터 수집(자세히), 활용 알고리즘(러프하게) 생각해오기
-- [18.10.18] 주제 선정 DeadLine
+- [18.10.09] 중간 점검: 자료 update하기
+- [18.10.11] 프로젝트 회의
+- [18.10.18] 주제 선정 DeadLine: 각자 주제 develop해서 크롤링, 논문 research 등 해오기
+- 1)splr 2)q_cls_rec 3)_
 
 
 ## 딥러닝 강의/자료
@@ -27,7 +30,7 @@
   
 - [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
-## 블로그
+## 블로그 등 자료
 
 
 __NLP__
@@ -40,6 +43,7 @@ __NLP__
 __RS__
 
 - [Yamarae님 추천 시스템의 전반적인 내용(1)](http://yamalab.tistory.com/67?category=747907)
+- [‘검색의 시대’ 지고 ‘추천의 시대’ 뜬다](https://news.samsung.com/kr/%EA%B2%80%EC%83%89%EC%9D%98-%EC%8B%9C%EB%8C%80-%EC%A7%80%EA%B3%A0-%EC%B6%94%EC%B2%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EB%9C%AC%EB%8B%A4)
 
 
 ## 관련 논문
