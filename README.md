@@ -70,3 +70,5 @@ __RS__
   - [PR-64 논문읽기](https://www.youtube.com/watch?v=hKoJPqWLrI4&index=66&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
   - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
 
+__SPLR__
+ - [CNN으로 문장 분류하기] (https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
