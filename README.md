@@ -70,3 +70,5 @@ __RS__
   - [PR-64 논문읽기](https://www.youtube.com/watch?v=hKoJPqWLrI4&index=66&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
   - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
 
+__SPLR__
+ - [낚시성 인터넷 신문기사 검출을 위한특징 추출] (https://webcache.googleusercontent.com/search?q=cache:_VJm0yHD-S8J:https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiOrteServHistIFrame.kci%3FsereArticleSearchBean.artiId%3DART002164709%26sereArticleSearchBean.orteFileId%3DKCI_FI002164709+&cd=1&hl=ko&ct=clnk&gl=kr)
