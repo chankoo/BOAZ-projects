@@ -71,4 +71,4 @@ __RS__
   - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
 
 __SPLR__
- - [낚시성 인터넷 신문기사 검출을 위한특징 추출] (https://webcache.googleusercontent.com/search?q=cache:_VJm0yHD-S8J:https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiOrteServHistIFrame.kci%3FsereArticleSearchBean.artiId%3DART002164709%26sereArticleSearchBean.orteFileId%3DKCI_FI002164709+&cd=1&hl=ko&ct=clnk&gl=kr)
+ - [CNN으로 문장 분류하기] (https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
