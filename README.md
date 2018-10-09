@@ -72,3 +72,8 @@ __RS__
 
 __SPLR__
  - [CNN으로 문장 분류하기] (https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
+ 
+ 
+__q_cls_rec__
+- okky_crawler.ipynb 구현 [게시글 데이터](https://drive.google.com/open?id=1C9TE2sfZamVG61MNbe54UpKn6P1Hb9b3)
+- QnA분석.ipynb 진행중, 우선 Question classification 시도(전처리 )
