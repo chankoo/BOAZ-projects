@@ -77,3 +77,5 @@ __SPLR__
 __q_cls_rec__
 - okky_crawler.ipynb 구현 [게시글 데이터](https://drive.google.com/open?id=1C9TE2sfZamVG61MNbe54UpKn6P1Hb9b3)
 - QnA분석.ipynb 진행중, 우선 Question classification 시도(전처리 )
+- [기사] ‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발 (http://www.bloter.net/archives/234850)
+- [논문] CNN을 이용한 소셜 이미지 자동 태깅 (http://kiise.or.kr/e_journal/2016/1/JOK/pdf/06.pdf)
