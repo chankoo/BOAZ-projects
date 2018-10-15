@@ -79,3 +79,4 @@ __q_cls_rec__
 - QnA분석.ipynb 진행중, 우선 Question classification 시도(전처리 )
 - [기사] ‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발 (http://www.bloter.net/archives/234850)
 - [논문] CNN을 이용한 소셜 이미지 자동 태깅 (http://kiise.or.kr/e_journal/2016/1/JOK/pdf/06.pdf)
+  - ImageNet (http://image-net.org/index)
