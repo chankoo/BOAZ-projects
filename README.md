@@ -24,7 +24,7 @@
 - 이미지 태깅: 강민 
   - 데이터셋 찾기
   - 관련 논문 찾기
- 
+  - [Domaiin adaption](https://www.youtube.com/watch?v=SYki6jXs5eI)
  
  
 - [NAVER Hack Day](https://github.com/NAVER-CAMPUS-HACKDAY/common/issues)
