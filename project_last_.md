@@ -10,11 +10,14 @@ pyLDAvis - 시각화
 
 https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics
 
-발전된 발표자료
+2018 Pycon - Topic Modeling & Word Embedding 그리고 화장품(이홍주님)
+https://www.pycon.kr/2018/program/5
 
+발표
+https://www.youtube.com/watch?v=F4sIkIlGG78
+
+발표자료
 https://github.com/lovit/datayanolja2018/blob/master/datayanolja2018_kmeans.pdf
-
-
 
 
 
