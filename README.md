@@ -17,11 +17,12 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 
 - [18.10.25] 일부 데이터 수집 및 전반적인 시스템 구상
  
-
+-----------------------------------------------
 ***Review Based Airbnb Recommender System***
 - [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection)
 
 ***Review Based Cosmetics Recommender System***
+- [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
 
 
 
