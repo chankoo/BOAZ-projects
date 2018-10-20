@@ -6,6 +6,7 @@
 - [18.09.27] 프로젝트 회의 
 - [18.10.04] 프로젝트 회의: 각자 주제 선정
 - [18.10.15] 프로젝트 회의: 주제 아이디어 추가
+- [18.10.19] 
 
 ## ToDo List
 - [18.10.19] 주제 선정 DeadLine: 각자 주제 develop해서 크롤링, 논문 research 등 해오기
@@ -55,12 +56,14 @@ __NLP__
   - [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
 
 - [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html): 직관적이고 이해하기 쉬움
-- [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
   
 __RS__
 
 - [Yamarae님 추천 시스템의 전반적인 내용(1)](http://yamalab.tistory.com/67?category=747907)
 - [‘검색의 시대’ 지고 ‘추천의 시대’ 뜬다](https://news.samsung.com/kr/%EA%B2%80%EC%83%89%EC%9D%98-%EC%8B%9C%EB%8C%80-%EC%A7%80%EA%B3%A0-%EC%B6%94%EC%B2%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EB%9C%AC%EB%8B%A4)
+- 네이버_인공지능추천시스템 airs개발기(https://www.slideshare.net/deview/airs-80886207)
+- [카카오 추천 알고리즘 리포트](https://brunch.co.kr/@kakao-it/72)
+- [SanghyukChun님 Matrix Completion](http://sanghyukchun.github.io/73/)
 
 
 ## 관련 논문
@@ -97,3 +100,10 @@ __q_cls_rec__
 - [기사 : ‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 - [논문 : CNN을 이용한 소셜 이미지 자동 태깅](http://kiise.or.kr/e_journal/2016/1/JOK/pdf/06.pdf)
   - [ImageNet](http://image-net.org/index)
+  
+  
+__news_rec__
+- 카카오 루빅스
+  - [기계학습 기반의 뉴스 추천 서비스 구조와 그 효과에 대한 고찰_2015](https://github.com/chankoo/BOAZ-projects/files/2497787/_._._._._._._._._.pdf)
+  - [카카오 정책산업 연구:루빅스 소개](https://brunch.co.kr/@kakao-it/57)
+
