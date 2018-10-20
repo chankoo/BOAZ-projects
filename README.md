@@ -61,7 +61,7 @@ __RS__
 
 - [Yamarae님 추천 시스템의 전반적인 내용(1)](http://yamalab.tistory.com/67?category=747907)
 - [‘검색의 시대’ 지고 ‘추천의 시대’ 뜬다](https://news.samsung.com/kr/%EA%B2%80%EC%83%89%EC%9D%98-%EC%8B%9C%EB%8C%80-%EC%A7%80%EA%B3%A0-%EC%B6%94%EC%B2%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EB%9C%AC%EB%8B%A4)
-- 네이버_인공지능추천시스템 airs개발기(https://www.slideshare.net/deview/airs-80886207)
+- [네이버_인공지능추천시스템 airs개발기](https://www.slideshare.net/deview/airs-80886207)
 - [카카오 추천 알고리즘 리포트](https://brunch.co.kr/@kakao-it/72)
 - [SanghyukChun님 Matrix Completion](http://sanghyukchun.github.io/73/)
 
