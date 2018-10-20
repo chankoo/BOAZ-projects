@@ -1,37 +1,34 @@
-# BOAZ Adv projects
+# BOAZ 10th Adv project
+
+_리뷰 기반 숙소 or 화장품 추천검색 시스템_
+
 강민 소현 찬규
 
 ## Did List
+
 - [18.09.26] gitHub repo 생성, 일부 자료 정리
 - [18.09.27] 프로젝트 회의 
 - [18.10.04] 프로젝트 회의: 각자 주제 선정
 - [18.10.15] 프로젝트 회의: 주제 아이디어 추가
-- [18.10.19] 프로젝트 회의: 주제 아이디어 확정 
-- [18.10.20] 프로젝트 (~2:00)
+- [18.10.20] 주제 아이디어 확정
+
 
 ## ToDo List
-- [18.10.19] 주제 선정 DeadLine: 각자 주제 develop해서 크롤링, 논문 research 등 해오기
 
-- 1) splr 2) q_cls_rec 3) __소설 관계망__ 4) __뉴스댓글기반 추천/악성유저 구별__ 5) 일베 스크리닝 6) __이미지(인스타) 태깅__ 7) 항공권 OCR 8) __상품 카테고리 태깅__
+- [18.10.25] 일부 데이터 수집 및 전반적인 시스템 구상
+ 
 
-- 소설관계망: 소현
-  - 소설 코퍼스 찾기
-  - 관계도 학습 어떻게 할지 리서치
-  
-- 뉴스댓글기반: 찬규
-  - 크롤링
-  - 뉴스제목 분류
-  - 추천/악성유저스크리닝 시스템 구상
-  
-- 이미지 태깅: 강민 
-  - 데이터셋 찾기
-  - 관련 논문 찾기
-  - [Domaiin adaption](https://www.youtube.com/watch?v=SYki6jXs5eI)
- 
- 
-- [NAVER Hack Day](https://github.com/NAVER-CAMPUS-HACKDAY/common/issues)
-  
-## 딥러닝 강의/자료
+***Review Based Airbnb Recommender System***
+- [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection)
+
+***Review Based Cosmetics Recommender System***
+
+
+
+
+--------------------------------
+# 공부자료
+## 딥러닝
 
 - __CS231n__
   - [Lecture Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -91,6 +88,22 @@ __RS__
   - [PR-64 논문읽기](https://www.youtube.com/watch?v=hKoJPqWLrI4&index=66&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
   - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
 
+
+------------------------
+## ETC
+_후보 주제 리스트업_
+
+1) 스포일러성 리뷰 분류 
+2) 개발자 커뮤니티 QA 
+3) 소설 내 인물 관계망 학습 
+4) 댓글기반 뉴스추천과 악성유저  
+5) 일베 스크리닝 
+6) 인스타 이미지 태깅
+  - [Domaiin adaption](https://www.youtube.com/watch?v=SYki6jXs5eI)
+7) 항공권 OCR 
+8) 상품 카테고리 태깅
+  - [NAVER Hack Day](https://github.com/NAVER-CAMPUS-HACKDAY/common/issues)
+  
 __SPLR__
  - [CNN으로 문장 분류하기] (https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
  
