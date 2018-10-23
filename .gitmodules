@@ -1,0 +1,3 @@
+[submodule "airbnb-data-collection"]
+	path = airbnb-data-collection
+	url = https://github.com/tomslee/airbnb-data-collection.git
