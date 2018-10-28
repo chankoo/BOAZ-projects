@@ -34,6 +34,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
   - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
   - [우분투 18.04 도커 설치](https://blog.cosmosfarm.com/archives/248/%EC%9A%B0%EB%B6%84%ED%88%AC-18-04-%EB%8F%84%EC%BB%A4-docker-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95/)
   - [깃 서브모듈 문제시 참고](http://blog.naver.com/PostView.nhn?blogId=tommybee&logNo=220840604103&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
+  - [psql 설치](http://moomini.tistory.com/88)
 
 ***Review Based Cosmetics Recommender System***
 - [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
