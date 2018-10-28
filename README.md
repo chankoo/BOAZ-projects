@@ -34,9 +34,10 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 
 ***Review Based Cosmetics Recommender System***
 - [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
-  - [사용자 리뷰 마이닝을 결합한 협업 필터링 시스템:앱추천](http://jiisonline.evehost.co.kr/files/DLA/20150627210745_01-%EC%95%88%ED%98%84%EC%B2%A0.pdf)
-  - [감정분석을 이용한 협업적 영화 추천 방법](https://www.researchgate.net/profile/Kyunglag_Kwon/publication/261842815_gamjeong_bunseog-eul_iyonghan_hyeob-eobjeog_yeonghwa_chucheon_bangbeob/links/02e7e535a1b5735374000000/gamjeong-bunseog-eul-iyonghan-hyeob-eobjeog-yeonghwa-chucheon-bangbeob.pdf)
-  - [고객 온라인 구매후기를 활용한 추천시스템 개발 및 적용](http://web.yonsei.ac.kr/dslab/Journal/isr20151.pdf)
+ - [발표_YouTube](https://www.youtube.com/watch?v=F4sIkIlGG78&feature=share)
+- [사용자 리뷰 마이닝을 결합한 협업 필터링 시스템:앱추천](http://jiisonline.evehost.co.kr/files/DLA/20150627210745_01-%EC%95%88%ED%98%84%EC%B2%A0.pdf)
+- [감정분석을 이용한 협업적 영화 추천 방법](https://www.researchgate.net/profile/Kyunglag_Kwon/publication/261842815_gamjeong_bunseog-eul_iyonghan_hyeob-eobjeog_yeonghwa_chucheon_bangbeob/links/02e7e535a1b5735374000000/gamjeong-bunseog-eul-iyonghan-hyeob-eobjeog-yeonghwa-chucheon-bangbeob.pdf)
+- [고객 온라인 구매후기를 활용한 추천시스템 개발 및 적용](http://web.yonsei.ac.kr/dslab/Journal/isr20151.pdf)
 
 
 --------------------------------
