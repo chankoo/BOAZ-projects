@@ -19,9 +19,12 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 
 - [18.11.01] 
   - (이론/공통)LDA 개념,라이브러리(gensim) 보기
+   - (LDA) http://www.engear.net/wp/topic-modeling-gensimpython/
+   
   - (소현)교수님 자문 & LDA 개념,라이브러리(gensim) 통달
   - (찬규)Docker을 이용한 데이터 수집 해오기 
   - (강민)리뷰 데이터 crawler 
+  
                     
  
 -----------------------------------------------
