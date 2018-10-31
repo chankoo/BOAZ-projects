@@ -35,6 +35,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
   - [psql 설치](http://moomini.tistory.com/88)
     - [psql 설치 및 연동](https://wikidocs.net/7385)
   - [postgis 설치](https://postgis.net/docs/manual-2.4/postgis-ko_KR.html#install_short_version)
+    - [shared object 파일 관련 환경변수 설정] (http://adnoctum.tistory.com/541)
   
   
 ***Review Based Cosmetics Recommender System***
