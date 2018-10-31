@@ -1,6 +1,6 @@
 ## Get Started with airbnb-data-collection
 
-[도커설치](https://blog.cosmosfarm.com/archives/248/%EC%9A%B0%EB%B6%84%ED%88%AC-18-04-%EB%8F%84%EC%BB%A4-docker-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95/) 후에 진행한다
+[도커설치(우분투 18.04 도커(Docker) 설치 방법)](https://blog.cosmosfarm.com/archives/248/%EC%9A%B0%EB%B6%84%ED%88%AC-18-04-%EB%8F%84%EC%BB%A4-docker-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95/) 후에 진행한다
 
 도커에 관한 내용은 
 
