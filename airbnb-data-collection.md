@@ -2,7 +2,13 @@
 
 [도커설치](https://blog.cosmosfarm.com/archives/248/%EC%9A%B0%EB%B6%84%ED%88%AC-18-04-%EB%8F%84%EC%BB%A4-docker-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95/) 후에 진행한다
 
-도커에 관한 내용은 [초보를 위한 도커 안내서](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) 등을 참고하며 같이 공부해보자
+도커에 관한 내용은 
+
+- [초보를 위한 도커 안내서](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) 
+- [우분투 18.04 도커 설치](https://blog.cosmosfarm.com/archives/248/%EC%9A%B0%EB%B6%84%ED%88%AC-18-04-%EB%8F%84%EC%BB%A4-docker-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95/)
+
+
+등을 참고하며 같이 공부해보자
 
 우선 [/docker/README.md](https://github.com/tomslee/airbnb-data-collection/blob/462bac4719c6cddae586d3b23f6f9a5fd2fd3693/docker/README.md) 의 2. 3.을 차례로 진행한 결과이다
 
