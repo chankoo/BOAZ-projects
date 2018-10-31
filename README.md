@@ -30,13 +30,8 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 -----------------------------------------------
 ***Review Based Airbnb Recommender System***
 - [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection)
-  - [도커 설치 및 실행 정리](https://github.com/chankoo/BOAZ-projects/blob/master/airbnb-data-collection.md)
-  - [깃 서브모듈 문제시 참고](http://blog.naver.com/PostView.nhn?blogId=tommybee&logNo=220840604103&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
-  - [psql 설치](http://moomini.tistory.com/88)
-    - [psql 설치 및 연동](https://wikidocs.net/7385)
-  - [postgis 설치(sudo apt-get install postgresql-10-postgis-2.4)](http://paintitcode.tistory.com/35)
-    - [dependency 확인](https://postgis.net/docs/manual-2.4/postgis-ko_KR.html#install_short_version)
-    - [shared object 파일 관련 환경변수 설정](http://adnoctum.tistory.com/541)
+  - [Get Started](https://github.com/chankoo/BOAZ-projects/blob/master/airbnb-data-collection.md)
+  
   
   
 ***Review Based Cosmetics Recommender System***
