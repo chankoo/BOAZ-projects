@@ -42,8 +42,13 @@
 
 ### PostgreSQL, PostGIS 설치 및 실행 -> PostGIS 설치가 까다로움
 ---------------------
-- [psql 설치](http://moomini.tistory.com/88)
+ - [PostgreSQL]
+  - [psql 설치](http://moomini.tistory.com/88)
   - [psql 설치 및 연동](https://wikidocs.net/7385)
+  - [psql10_doc](http://postgresql.kr/docs/10/)
+  - [psql 기본강좌](http://www.gurubee.net/postgresql/basic)
+  - [docker와 psql](http://postgresql.kr/blog/docker_postgresql.html)
+  
 - [postgis 설치](http://paintitcode.tistory.com/35)
   - ``` sudo apt-get install postgresql-10-postgis-2.4 ``` 이용
   - [dependency 확인](https://postgis.net/docs/manual-2.4/postgis-ko_KR.html#install_short_version)
