@@ -42,7 +42,9 @@
 
 ### PostgreSQL, PostGIS 설치 및 실행 -> PostGIS 설치가 까다로움
 ---------------------
- - [PostgreSQL]
+
+PostgreSQL
+
   - [psql 설치](http://moomini.tistory.com/88)
   - [psql 설치 및 연동](https://wikidocs.net/7385)
   - [psql10_doc](http://postgresql.kr/docs/10/)
