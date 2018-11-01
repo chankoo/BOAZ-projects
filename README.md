@@ -20,8 +20,9 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 - [18.11.06] 
    - (공통)  
    - (LDA) http://www.engear.net/wp/topic-modeling-gensimpython/ 
-   - (소현)교수님 자문 & 라이브러리(gensim) 통달
-   - (강민) 크롤링했던 자료 정리해서 올리기
+   - (소현) 교수님 자문 & 라이브러리(gensim) 통달
+   - (강민) 리뷰 크롤링했던 내용 정리해서 올리기
+   - (찬규) 리뷰 크롤링 완벽하게 통달!
    - data 형태  { room_id : [  ] , reviewr_id : [  ] , comments : [  ] }
 
   
