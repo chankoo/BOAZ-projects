@@ -13,17 +13,17 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 - [18.10.20] 주제 아이디어 확정
 - [18.10.21] 회의 : 데이터 수집 시작
 - [18.10.25] 회의 : 일부 데이터 수집 및 전반적인 시스템 구상 & 리뷰 based RS 관련 논문
- 
+- [18.11.01] 정리 :  리뷰 데이터 crawler & LDA 개념
 
 ## ToDo List
 
-- [18.11.01] 
-  - (이론/공통)LDA 개념,라이브러리(gensim) 보기
-   - (LDA) http://www.engear.net/wp/topic-modeling-gensimpython/
-   
-  - (소현)교수님 자문 & LDA 개념,라이브러리(gensim) 통달
-  - (찬규)Docker을 이용한 데이터 수집 해오기 
-  - (강민)리뷰 데이터 crawler 
+- [18.11.06] 
+   - (공통)  
+   - (LDA) http://www.engear.net/wp/topic-modeling-gensimpython/ 
+   - (소현)교수님 자문 & 라이브러리(gensim) 통달
+   - (강민) 크롤링했던 자료 정리해서 올리기
+   - data 형태  { room_id : [  ] , reviewr_id : [  ] , comments : [  ] }
+
   
                     
  
@@ -68,7 +68,6 @@ __NLP__
 
 - [ratsgo's blog](https://ratsgo.github.io/blog/categories/): 훌륭한 설명
   - [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
-
 - [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html): 직관적이고 이해하기 쉬움
   
 __RS__
