@@ -68,7 +68,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
    - [ratsgo's blog](https://ratsgo.github.io/blog/categories/): 훌륭한 설명
    - [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
    - [쉽게 씌어진word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html): 직관적이고 이해하기 쉬움
- 
+   - [한국어와 NLTK, Gensim의 만남](https://www.slideshare.net/lucypark/nltk-gensim)
  - 관련 논문
  
     ***W2V***
@@ -79,6 +79,14 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
    - [Convolutional Neural Networks for Sentence Classification_2014](http://www.aclweb.org/anthology/D14-1181): w2v과 CNN 이용 문장분류
    - [PR-015 논문읽기](https://www.youtube.com/watch?v=IRB2vXSet2E&index=16&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
    - [컨볼루션 신경망 기반 대용량 텍스트 데이터 분류 기술_2015](https://bi.snu.ac.kr/Publications/Conferences/Domestic/KIISE2015W_JoHY.pdf): 한국어에 적용
+   
+## __LDA__
+ 
+  - 블로그 등 자료
+     - [Topic modelint, LDA](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/06/01/LDA/)
+     - [Latent Dirichlet Allocation (LDA)](http://khanrc.tistory.com/entry/Latent-Dirichlet-Allocation-LDA)
+     - [LDA 파라미터 추정: 깁스 샘플링을 써서](http://4four.us/article/2014/10/lda-parameter-estimation)   
+     - [Topic Modeling with Gensim(Python)](http://www.engear.net/wp/tag/gensim/)
 
 ## __RS__
 
@@ -100,12 +108,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
    - [PR-64 논문읽기](https://www.youtube.com/watch?v=hKoJPqWLrI4&index=66&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
    - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
   
- ## __LDA__
- 
-  - 블로그 등 자료
-     - [Topic modelint, LDA](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/06/01/LDA/)
-     - [Latent Dirichlet Allocation (LDA)](http://khanrc.tistory.com/entry/Latent-Dirichlet-Allocation-LDA)
-     - [LDA 파라미터 추정: 깁스 샘플링을 써서](http://4four.us/article/2014/10/lda-parameter-estimation)
+
      
 ------------------------
 ## ETC
