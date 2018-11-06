@@ -87,6 +87,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
      - [Latent Dirichlet Allocation (LDA)](http://khanrc.tistory.com/entry/Latent-Dirichlet-Allocation-LDA)
      - [LDA 파라미터 추정: 깁스 샘플링을 써서](http://4four.us/article/2014/10/lda-parameter-estimation)   
      - [Topic Modeling with Gensim(Python)](http://www.engear.net/wp/tag/gensim/)
+     - [트위터로 바라본 지카바이러스 사태](http://miniddong.me/2016/11/12/zika-tweet-lda/#f5) : 트위터를 크롤링해서 LDA후 감정분석
 
 ## __RS__
 
