@@ -13,20 +13,17 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 - [18.10.20] 주제 아이디어 확정
 - [18.10.21] 회의 : 데이터 수집 시작
 - [18.10.25] 회의 : 일부 데이터 수집 및 전반적인 시스템 구상 & 리뷰 based RS 관련 논문
-- [18.11.01] 정리 :  리뷰 데이터 crawler & LDA 개념
+- [18.11.01] 정리 : 리뷰 데이터 crawler & LDA 개념
+- [18.11.06] 회의: 크롤러 완성, 데이터수집
 
 ## ToDo List
 
-- [18.11.06] 
-   - (공통)  
-   - (LDA) http://www.engear.net/wp/topic-modeling-gensimpython/ 
-   - (소현) 교수님 자문 & 라이브러리(gensim) 통달
-   - (강민) 리뷰 크롤링했던 내용 정리해서 올리기
-   - (찬규) 리뷰 크롤링 완벽하게 통달!
-   - data 형태  { room_id : [  ] , reviewr_id : [  ] , comments : [  ] }
+- [18.11.08] 
+   - (강민) RNN 기반 감성분석 공부/ 텍스트 전처리 
+   - (찬규) 데이터 수집 완료
+   - (소현) LDA 이후 발전방향 구상/ 한국어 텍스트 전처리 최적화
 
   
-                    
  
 -----------------------------------------------
 ***Review Based Airbnb Recommender System***
@@ -37,7 +34,8 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
   
 ***Review Based Cosmetics Recommender System***
 - [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
-  - [발표_YouTube](https://www.youtube.com/watch?v=F4sIkIlGG78&feature=share)
+   - [발표_YouTube](https://www.youtube.com/watch?v=F4sIkIlGG78&feature=share)
+   
 - [사용자 리뷰 마이닝을 결합한 협업 필터링 시스템:앱추천](http://jiisonline.evehost.co.kr/files/DLA/20150627210745_01-%EC%95%88%ED%98%84%EC%B2%A0.pdf)
 - [감정분석을 이용한 협업적 영화 추천 방법](https://www.researchgate.net/profile/Kyunglag_Kwon/publication/261842815_gamjeong_bunseog-eul_iyonghan_hyeob-eobjeog_yeonghwa_chucheon_bangbeob/links/02e7e535a1b5735374000000/gamjeong-bunseog-eul-iyonghan-hyeob-eobjeog-yeonghwa-chucheon-bangbeob.pdf)
 - [고객 온라인 구매후기를 활용한 추천시스템 개발 및 적용](http://web.yonsei.ac.kr/dslab/Journal/isr20151.pdf)
@@ -78,7 +76,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
     ***Sentence Classification***  
    - [Convolutional Neural Networks for Sentence Classification_2014](http://www.aclweb.org/anthology/D14-1181): w2v과 CNN 이용 문장분류
    - [PR-015 논문읽기](https://www.youtube.com/watch?v=IRB2vXSet2E&index=16&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
-   - [컨볼루션 신경망 기반 대용량 텍스트 데이터 분류 기술_2015](https://bi.snu.ac.kr/Publications/Conferences/Domestic/KIISE2015W_JoHY.pdf): 한국어에 적용
+      - [컨볼루션 신경망 기반 대용량 텍스트 데이터 분류 기술_2015](https://bi.snu.ac.kr/Publications/Conferences/Domestic/KIISE2015W_JoHY.pdf): 한국어에 적용
    
 ## __LDA__
  
@@ -102,14 +100,14 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
  
  - 관련 논문
    - [Deep Neural Networks for YouTube Recommendations](https://github.com/chankoo/BOAZ-projects/files/2420203/Deep.Neural.Networks.for.YouTube.Recommendations_2016_google.pdf): 구글의 유튜브 추천 알고리즘, 딥러닝 기반 추천 시스템 
-   - [PR-60 논문읽기](https://www.youtube.com/watch?v=V6zixdCIOqw&index=62&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
-   - [최근우님 논문요약](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
+      - [PR-60 논문읽기](https://www.youtube.com/watch?v=V6zixdCIOqw&index=62&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
+      - [최근우님 논문요약](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
     
    - [Deep Learning based Recommender System: A Survey and New Perspectives](https://github.com/chankoo/BOAZ-projects/files/2423646/Deep.Learning.based.Recommender.System.A.Survey.and.New.Perspectives.pdf): 딥러닝 기반 추천시스템 관련 최근 리서치 포괄적으로
   
    - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792): 구글 플레이에 적용된 추천엔진
-   - [PR-64 논문읽기](https://www.youtube.com/watch?v=hKoJPqWLrI4&index=66&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
-   - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
+      - [PR-64 논문읽기](https://www.youtube.com/watch?v=hKoJPqWLrI4&index=66&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&t=0s)
+      - [Yamarae님 Wide & Deep Learning for Recommender Systems 리뷰](http://yamalab.tistory.com/101?category=747907)
   
 
      
