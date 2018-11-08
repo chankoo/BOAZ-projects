@@ -93,6 +93,8 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
      - [한국어 자연어 처리와 LDA, 감성분석을 이용한 항공사 서비스 만족요인 연구](http://www.earticle.net/Article.aspx?sn=317360)
      - [여행 사이트 리뷰를 활용한 관광지 만족도 요인 추출 및 평가](http://jkiie.snu.ac.kr/index.php/journal/article/viewFile/323/pdf)
      - [엘라스틱 넷을 적용한 블로그 리뷰 감성사전 구축 및 극성 분류](http://www.dbpia.co.kr/Journal/PDFViewNewid=NODE06602478&prevPathCode=)
+     - [SNS에서 단어 간 유사도 기반 단어의 쾌-불쾌 지수 추정](http://kiise.or.kr/e_journal/2014/3/cpl/pdf/05.pdf)
+     - [퍼지 추론과 감성사전 구축을 통한 화장품 추천 시스템](http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=JAKO201722163436188)
 ## __RS__
 
 - 블로그 등 자료
