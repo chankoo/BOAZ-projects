@@ -86,6 +86,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
      - [LDA 파라미터 추정: 깁스 샘플링을 써서](http://4four.us/article/2014/10/lda-parameter-estimation)   
      - [Topic Modeling with Gensim(Python)](http://www.engear.net/wp/tag/gensim/)
      - [트위터로 바라본 지카바이러스 사태](http://miniddong.me/2016/11/12/zika-tweet-lda/#f5) : 트위터를 크롤링해서 LDA후 감정분석
+     - [LDA에 용어 가중치 적용하기](https://bab2min.tistory.com/605)
   - 관련 논문
      - [커뮤니티 기반 Q&A서비스에서의 질의 할당을 위한 이용자의 관심 토픽 분석에 관한 연구](http://www.dbpia.co.kr/Journal/PDFViewNew?id=NODE06519825&prevPathCode=)
      - [LDA 토픽 모델링을 활용한 판례 검색 및 분류 방법](http://www.dbpia.co.kr/Journal/PDFViewNew?id=NODE07252870&prevPathCode=)
