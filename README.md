@@ -89,6 +89,9 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
   - 관련 논문
      - [커뮤니티 기반 Q&A서비스에서의 질의 할당을 위한 이용자의 관심 토픽 분석에 관한 연구](http://www.dbpia.co.kr/Journal/PDFViewNew?id=NODE06519825&prevPathCode=)
      - [LDA 토픽 모델링을 활용한 판례 검색 및 분류 방법](http://www.dbpia.co.kr/Journal/PDFViewNew?id=NODE07252870&prevPathCode=)
+     - [LDA를 이용한 온라인 리뷰의 다중 토픽별 감성분석 : TripAdvisor 사례](http://210.101.116.14/ftp41/viewer.asp)
+     - [한국어 자연어 처리와 LDA, 감성분석을 이용한 항공사 서비스 만족요인 연구](http://www.earticle.net/Article.aspx?sn=317360)
+     - [여행 사이트 리뷰를 활용한 관광지 만족도 요인 추출 및 평가](http://jkiie.snu.ac.kr/index.php/journal/article/viewFile/323/pdf)
 ## __RS__
 
 - 블로그 등 자료
