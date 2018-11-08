@@ -92,6 +92,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
      - [LDA를 이용한 온라인 리뷰의 다중 토픽별 감성분석 : TripAdvisor 사례](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3585302)
      - [한국어 자연어 처리와 LDA, 감성분석을 이용한 항공사 서비스 만족요인 연구](http://www.earticle.net/Article.aspx?sn=317360)
      - [여행 사이트 리뷰를 활용한 관광지 만족도 요인 추출 및 평가](http://jkiie.snu.ac.kr/index.php/journal/article/viewFile/323/pdf)
+     - [엘라스틱 넷을 적용한 블로그 리뷰 감성사전 구축 및 극성 분류](http://www.dbpia.co.kr/Journal/PDFViewNewid=NODE06602478&prevPathCode=)
 ## __RS__
 
 - 블로그 등 자료
