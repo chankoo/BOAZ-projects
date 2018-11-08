@@ -105,3 +105,6 @@ venv.bak/
 
 q_cls_rec/answers.dic
 q_cls_rec/questions.dic
+
+# json
+.json
