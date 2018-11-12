@@ -96,6 +96,9 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
      - [엘라스틱 넷을 적용한 블로그 리뷰 감성사전 구축 및 극성 분류](http://www.dbpia.co.kr/Journal/PDFViewNewid=NODE06602478&prevPathCode=)
      - [SNS에서 단어 간 유사도 기반 단어의 쾌-불쾌 지수 추정](http://kiise.or.kr/e_journal/2014/3/cpl/pdf/05.pdf)
      - [퍼지 추론과 감성사전 구축을 통한 화장품 추천 시스템](http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=JAKO201722163436188)
+  - usin R
+     - [R을 이용한 토픽분석](https://brunch.co.kr/@mapthecity/2)
+     - [환자 불편 상담에 관한 LDA 분석](https://junhewk.github.io/text/2017/08/15/complaint-LDA/)
 ## __RS__
 
 - 블로그 등 자료
