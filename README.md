@@ -99,6 +99,10 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
   - usin R
      - [R을 이용한 토픽분석](https://brunch.co.kr/@mapthecity/2)
      - [환자 불편 상담에 관한 LDA 분석](https://junhewk.github.io/text/2017/08/15/complaint-LDA/)
+  - usin Python
+     - [Topic Modeling and LDA in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+     - [LDA in Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
+     - [LDA in Python-How to grid search best topic models](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
 ## __RS__
 
 - 블로그 등 자료
