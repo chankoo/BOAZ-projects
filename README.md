@@ -29,6 +29,7 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 ***Review Based Airbnb Recommender System***
 - [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection)
   - [Get Started](https://github.com/chankoo/BOAZ-projects/blob/master/airbnb-data-collection.md)
+- [What Airbnb Reviews can tell us?](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=7410&context=etd) 
   
   
   
