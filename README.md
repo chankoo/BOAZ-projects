@@ -14,15 +14,19 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 - [18.10.21] 회의 : 데이터 수집 시작
 - [18.10.25] 회의 : 일부 데이터 수집 및 전반적인 시스템 구상 & 리뷰 based RS 관련 논문
 - [18.11.01] 정리 : 리뷰 데이터 crawler & LDA 개념
-- [18.11.06] 회의: 크롤러 완성, 데이터수집
+- [18.11.06] 회의 : 크롤러 완성, 데이터수집
+- [18.11.08] 정리 : RNN기반 감성분석, LDA 공부
+- [18.11.15] 회의 : LARA,LDA 이용 세부 rating 도출 방법 정리, BOAZ 수료자 피드백
+- [18.11.19] 정리 : 데이터수집(서울,부산,제주) 완료, 영어 외 언어 번역작업(파파고) 수행 중
 
 ## ToDo List
 
-- [18.11.08] 
-   - (강민) RNN 기반 감성분석 공부/ 텍스트 전처리 
-   - (찬규) 데이터 수집 완료
-   - (소현) LDA 이후 발전방향 구상/ 한국어 텍스트 전처리 최적화
-
+- [18.11.22]
+   - 한국어 전처리, 파파고 이용 번역작업
+   - LDA 모델링 후 토픽 뽑아오기
+   - What Airbnb Reviews can Tell us? 논문 리뷰
+   - LARA, CNN 등 aspect detection 모델 공부
+   
   
  
 -----------------------------------------------
@@ -68,16 +72,28 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
    - [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
    - [쉽게 씌어진word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html): 직관적이고 이해하기 쉬움
    - [한국어와 NLTK, Gensim의 만남](https://www.slideshare.net/lucypark/nltk-gensim)
+   - [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
+   
+ 
  - 관련 논문
  
-    ***W2V***
+    ***Embeddings***
    - [word2vec Parameter Learning Explained](https://github.com/chankoo/BOAZ-projects/files/2420174/word2vec.Parameter.Learning.Explained.pdf): W2V 이해하기 가장 좋은 문서
    - [한국어에 적합한 단어 임베딩 모델 및 파라미터 튜닝에 관한 연구_2015](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE2aGNsdHxneDozMjkyYjRkYWViM2Q0MzU2): 한국어에 최적화된 단어 임베딩 학습 방법 소개
+   - [Skip-Thought Vectors(문장수준 임베딩)](https://arxiv.org/pdf/1506.06726.pdf)
+   -
 
     ***Sentence Classification***  
    - [Convolutional Neural Networks for Sentence Classification_2014](http://www.aclweb.org/anthology/D14-1181): w2v과 CNN 이용 문장분류
    - [PR-015 논문읽기](https://www.youtube.com/watch?v=IRB2vXSet2E&index=16&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
       - [컨볼루션 신경망 기반 대용량 텍스트 데이터 분류 기술_2015](https://bi.snu.ac.kr/Publications/Conferences/Domestic/KIISE2015W_JoHY.pdf): 한국어에 적용
+   
+   ***Aspects Detection***
+   - [LARA: A Rating Regression Approach](https://www.cs.virginia.edu/~hw5x/paper/rp166f-wang.pdf)
+   - [LARA: without Aspect Keyword Supervision](https://www.cs.virginia.edu/~hw5x/paper/p618.pdf)
+   - [Aspect extraction for opinion mining with a deep convolutional neural
+network(aspect detection을 위한 multi-level CNN)](http://sentic.net/aspect-extraction-for-opinion-mining.pdf)
+   
    
 ## __LDA__
  
@@ -104,6 +120,8 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
      - [Topic Modeling and LDA in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
      - [LDA in Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
      - [LDA in Python-How to grid search best topic models](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
+     
+     
 ## __RS__
 
 - 블로그 등 자료
