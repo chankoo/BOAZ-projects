@@ -120,6 +120,7 @@ network(aspect detection을 위한 multi-level CNN)](http://sentic.net/aspect-ex
      - [Topic Modeling and LDA in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
      - [LDA in Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
      - [LDA in Python-How to grid search best topic models](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
+     - [gensim ftn](https://svn.spraakdata.gu.se/repos/richard/pub/statnlp2016_web/vgassignment1.html)
      
      
 ## __RS__
