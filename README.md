@@ -24,10 +24,16 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 - [18.12.03] 회의 : 텍스트 전처리 완료. LDA 모델링 중. LARA 논문 리뷰
 - [18.12.06] 회의 : LARA segmentation 알고리즘 구현 완료
 - [18.12.08] 정리 : LDA 최적화 중, LRR 구현 중
+- [18.12.14] 회의 : elastic net 기반 감성사전 구축 논의, 스케쥴조정
 
 ## ToDo List
 
-- [18.12.14]
+[18.12.20]
+
+- LDA 그리드 서치로 최적모델 도출
+- POS tagging 등 전처리 완료
+- 임소현 프로젝트
+- LRR 계속 진행
 
 
 ## [진행사항.md](https://github.com/chankoo/BOAZ-projects/blob/master/%EC%A7%84%ED%96%89%EC%82%AC%ED%95%AD.md)
