@@ -1,6 +1,6 @@
 # BOAZ 10th Adv project
 
-_리뷰 기반 숙소 or 화장품 추천검색 시스템_
+_에어비앤비 리뷰 분석_
 
 강민 소현 찬규
 
@@ -36,24 +36,18 @@ _리뷰 기반 숙소 or 화장품 추천검색 시스템_
 - LRR 계속 진행
 
 
-## [진행사항.md](https://github.com/chankoo/BOAZ-projects/blob/master/%EC%A7%84%ED%96%89%EC%82%AC%ED%95%AD.md)
+### [진행사항.md](https://github.com/chankoo/BOAZ-projects/blob/master/%EC%A7%84%ED%96%89%EC%82%AC%ED%95%AD.md)
 
  
 -----------------------------------------------
 ***Review Based Airbnb Recommender System***
 - [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection)
   - [Get Started](https://github.com/chankoo/BOAZ-projects/blob/master/airbnb-data-collection.md)
-- [What Airbnb Reviews can tell us?](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=7410&context=etd) 
+- [What Airbnb Reviews can tell us?](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=7410&context=etd)
+- [GCP와 docker 이용한 딥러닝 개발환경(gpu) 구축](https://github.com/chankoo/BOAZ-projects/blob/master/gcp-gpu-with-docker.md)
   
   
-  
-***Review Based Cosmetics Recommender System***
-- [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
-   - [발표_YouTube](https://www.youtube.com/watch?v=F4sIkIlGG78&feature=share)
-   
-- [사용자 리뷰 마이닝을 결합한 협업 필터링 시스템:앱추천](http://jiisonline.evehost.co.kr/files/DLA/20150627210745_01-%EC%95%88%ED%98%84%EC%B2%A0.pdf)
-- [감정분석을 이용한 협업적 영화 추천 방법](https://www.researchgate.net/profile/Kyunglag_Kwon/publication/261842815_gamjeong_bunseog-eul_iyonghan_hyeob-eobjeog_yeonghwa_chucheon_bangbeob/links/02e7e535a1b5735374000000/gamjeong-bunseog-eul-iyonghan-hyeob-eobjeog-yeonghwa-chucheon-bangbeob.pdf)
-- [고객 온라인 구매후기를 활용한 추천시스템 개발 및 적용](http://web.yonsei.ac.kr/dslab/Journal/isr20151.pdf)
+
 
 
 --------------------------------
@@ -157,12 +151,33 @@ network(aspect detection을 위한 multi-level CNN)](http://sentic.net/aspect-ex
      
 ------------------------
 ## ETC
+
 _후보 주제 리스트업_
 
+0) Review Based Cosmetics Recommender System
+- [Topic Modeling & Word Embedding on Cosmetics](https://www.slideshare.net/hongjoo/topic-modeling-word-embedding-on-cosmetics)
+   - [발표_YouTube](https://www.youtube.com/watch?v=F4sIkIlGG78&feature=share)
+   
+- [사용자 리뷰 마이닝을 결합한 협업 필터링 시스템:앱추천](http://jiisonline.evehost.co.kr/files/DLA/20150627210745_01-%EC%95%88%ED%98%84%EC%B2%A0.pdf)
+- [감정분석을 이용한 협업적 영화 추천 방법](https://www.researchgate.net/profile/Kyunglag_Kwon/publication/261842815_gamjeong_bunseog-eul_iyonghan_hyeob-eobjeog_yeonghwa_chucheon_bangbeob/links/02e7e535a1b5735374000000/gamjeong-bunseog-eul-iyonghan-hyeob-eobjeog-yeonghwa-chucheon-bangbeob.pdf)
+- [고객 온라인 구매후기를 활용한 추천시스템 개발 및 적용](http://web.yonsei.ac.kr/dslab/Journal/isr20151.pdf)
+
 1) 스포일러성 리뷰 분류 
-2) 개발자 커뮤니티 QA 
+
+- [CNN으로 문장 분류하기](https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
+
+2) 개발자 커뮤니티 QA
+- okky_crawler.ipynb 구현 [게시글 데이터](https://drive.google.com/open?id=1C9TE2sfZamVG61MNbe54UpKn6P1Hb9b3)
+- QnA분석.ipynb 진행중, 우선 Question classification 시도(전처리)
+- [기사 : ‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
+- [논문 : CNN을 이용한 소셜 이미지 자동 태깅](http://kiise.or.kr/e_journal/2016/1/JOK/pdf/06.pdf)
+  - [ImageNet](http://image-net.org/index)
 3) 소설 내 인물 관계망 학습 
-4) 댓글기반 뉴스추천과 악성유저  
+4) 댓글기반 뉴스추천과 악성유저
+- 카카오 루빅스
+  - [기계학습 기반의 뉴스 추천 서비스 구조와 그 효과에 대한 고찰_2015](https://github.com/chankoo/BOAZ-projects/files/2497787/_._._._._._._._._.pdf)
+  - [카카오 정책산업 연구:루빅스 소개](https://brunch.co.kr/@kakao-it/57)
+  
 5) 일베 스크리닝 
 6) 인스타 이미지 태깅
   - [Domaiin adaption](https://www.youtube.com/watch?v=SYki6jXs5eI)
@@ -170,20 +185,4 @@ _후보 주제 리스트업_
 8) 상품 카테고리 태깅
   - [NAVER Hack Day](https://github.com/NAVER-CAMPUS-HACKDAY/common/issues)
   
-__SPLR__
- - [CNN으로 문장 분류하기] (https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
- 
- 
-__q_cls_rec__
-- okky_crawler.ipynb 구현 [게시글 데이터](https://drive.google.com/open?id=1C9TE2sfZamVG61MNbe54UpKn6P1Hb9b3)
-- QnA분석.ipynb 진행중, 우선 Question classification 시도(전처리 )
-- [기사 : ‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
-- [논문 : CNN을 이용한 소셜 이미지 자동 태깅](http://kiise.or.kr/e_journal/2016/1/JOK/pdf/06.pdf)
-  - [ImageNet](http://image-net.org/index)
-  
-  
-__news_rec__
-- 카카오 루빅스
-  - [기계학습 기반의 뉴스 추천 서비스 구조와 그 효과에 대한 고찰_2015](https://github.com/chankoo/BOAZ-projects/files/2497787/_._._._._._._._._.pdf)
-  - [카카오 정책산업 연구:루빅스 소개](https://brunch.co.kr/@kakao-it/57)
 
