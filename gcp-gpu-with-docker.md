@@ -45,3 +45,20 @@
 ### 도커 사용으로 이득보는 부분
 - CUDA, Tensorflow 등 설치과정에서 발생하는 수많은 알수없는 충돌을 해결 -> official image는 거의 대부분 깨끗하게 잘 돌아간다
 - 혹시나 충돌이 나더라도 충돌 원인의 분석이 훨씬 쉬워진다(깨끗한 인스턴스 환경)
+
+
+
+#### GCP 인스턴스와 도커 컨테이너 간 공유폴더 설정하기
+
+1) docker run 시에 v 옵션을 주어 gcp 인스턴스의 '/data'와 도커 컨테이너의 '/data'를 공유 폴더로 설정한다 ':' 로 구분해 앞쪽이 gcp인스턴스, 뒤쪽이 도커 컨테이너의 디렉토리이다 
+> ![0](https://user-images.githubusercontent.com/38183218/50374489-7bffbd80-0632-11e9-8bad-3d5a1ba9b0e9.PNG)
+2) jupyter notebook의 upload 기능으로 쉽게 파일 업로드한다
+![1](https://user-images.githubusercontent.com/38183218/50374490-7bffbd80-0632-11e9-9cdb-c0345fb3c5bb.PNG)
+3) 노트북 내에서 파일목록을 확인하고 (!ls)
+![2](https://user-images.githubusercontent.com/38183218/50374491-7c985400-0632-11e9-83fd-2cdc7c7c8fa0.PNG)
+4) 공유폴더로 설정된 '/data'에 파일을 copy한다 (!cp)
+![3](https://user-images.githubusercontent.com/38183218/50374492-7e621780-0632-11e9-8d38-5b2adc7f2096.PNG)
+5) '/data'에 파일이 옮겨졌고
+![4](https://user-images.githubusercontent.com/38183218/50374493-7e621780-0632-11e9-9959-1e61e8fb6973.PNG)
+6) 도커를 stop 시킨 후에도 파일은 인스턴스에 남아있다 굳
+![-1](https://user-images.githubusercontent.com/38183218/50374485-786c3680-0632-11e9-8a07-807c6fc058b7.PNG)
