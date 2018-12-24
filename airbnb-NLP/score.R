@@ -35,7 +35,6 @@ room.2 = data.frame(Sent.Score[9:25,])
 room.3 = data.frame(Sent.Score[26:118,])
 mm = data.frame(room.1)
 
-
 for (i in 1:nrow(room.3)) {
   assign(paste("x", i, sep=""), scale(as.numeric(room.3[i,]))[,1])
 }
