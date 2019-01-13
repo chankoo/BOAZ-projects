@@ -25,6 +25,7 @@ _에어비앤비 리뷰 분석_
 - [18.12.06] 회의 : LARA segmentation 알고리즘 구현 완료
 - [18.12.08] 정리 : LDA 최적화 중, LRR 구현 중
 - [18.12.14] 회의 : elastic net 기반 감성사전 구축 논의, 스케쥴조정
+- [19.01.13] 정리 : doc2vec, 평점 0-3인 방에 대해 LDA 후 aspect별 elastic net 
 
 ## ToDo List
 
