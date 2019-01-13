@@ -25,16 +25,19 @@ _에어비앤비 리뷰 분석_
 - [18.12.06] 회의 : LARA segmentation 알고리즘 구현 완료
 - [18.12.08] 정리 : LDA 최적화 중, LRR 구현 중
 - [18.12.14] 회의 : elastic net 기반 감성사전 구축 논의, 스케쥴조정
-- [19.01.13] 정리 : doc2vec, 평점 0-3인 방에 대해 LDA 후 aspect별 elastic net 
+- [19.01.13] 정리 : doc2vec, 평점 0-3인 방에 대해 LDA 후 aspect별 elastic net , LDA 전처리 완료, 전체 LDA
 
-## ToDo List
+## To Do List
 
-[18.12.20]
+[18.01.13]
 
-- LDA 그리드 서치로 최적모델 도출
-- POS tagging 등 전처리 완료
-- 임소현 프로젝트
-- LRR 계속 진행
+- doc2vec 내일까지 parameter 조정
+- 내륙 / 바다 지역 LDA
+- 방에 대한 워드클라우드 만들어보기
+- aspect별로 긍부정 워드클라우드 만들어보기 (ppt용)
+- DTM으로 행렬곱, 부정적인 aspect에 대해서 score 구해보기 -> 다른방과 비교해서 표정으로 시각화
+- LARA는 motivatation
+- 포토샵으로 사이트 구성 다시해보기
 
 
 ### [진행사항.md](https://github.com/chankoo/BOAZ-projects/blob/master/%EC%A7%84%ED%96%89%EC%82%AC%ED%95%AD.md)
